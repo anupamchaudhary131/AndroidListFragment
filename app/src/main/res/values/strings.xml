@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidListFragment</string>
+    <string-array name="Users">
+        <item>Ram</item>
+        <item>Shyam</item>
+        <item>Ganshyam</item>
+        <item>Preeti</item>
+        <item>Rahul</item>
+        <item>Reena</item>
+        <item>Seema</item>
+        <item>Neela</item>
+        <item>Feorge</item>
+        <item>Bob</item>
+        <item>Chayya</item>
+        <item>Sapna</item>
+        <item>Ferrera</item>
+    </string-array>
+</resources>
